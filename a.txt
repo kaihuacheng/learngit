@@ -1,1 +1,2 @@
-Hello everyone!:
+Hello everybody!
+git is a free software.
